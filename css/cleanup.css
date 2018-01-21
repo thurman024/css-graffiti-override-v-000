@@ -4,5 +4,5 @@
 div#wall #tag-3.slick {display: none;}
 div#wall .parent #tag-4 {display: none;}
 div[class*="slick"] {display: none;}
-#tag-6 {display: none;}
+#wall .parent div:last-child #tag-6 {display: none;}
 #tag-7 {display: none;}
