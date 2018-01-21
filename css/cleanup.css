@@ -3,6 +3,6 @@
 #tag-2 {display: none;}
 
 .parent #tag-4 {display: none;}
-.parent #tag-5 {display: none;}
+#tag-5, .slick {display: none;}
 #tag-6 {display: none;}
 #tag-7 {display: none;}
