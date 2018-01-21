@@ -5,5 +5,5 @@ div#wall #tag-3.slick {display: none;}
 div#wall .parent #tag-4 {display: none;}
 /*div[class*="slick"] {display: none;}*/
 div#wall .parent + .parent #tag-5.slick {display: none;}
-body div#wall .parent div:last-child #tag-6 {display: none;}
+body div#wall .parent div:last-child div#tag-6 {display: none;}
 body div#wall div.parent div:first-child #tag-7.slick {display: none;}
